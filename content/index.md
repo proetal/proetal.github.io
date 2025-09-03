@@ -12,21 +12,21 @@ This index serves as a **map of content (MOC)** for topics related to cognition,
 ---
 
 ## Core Notes
-- [[202509031001 The Role of Attention in Learning]]
-- [[202509031002 Long-term Memory Formation]]
-- [[202509031003 Cognitive Load Theory]]
+- [[The Role of Attention in Learning]]
+- [[Long-term Memory Formation]]
+- [[Cognitive Load Theory]]
 
 ---
 
 ## Thematic Groups
 ### 🧠 Cognition & Attention
-- [[202509031001 The Role of Attention in Learning]]
+- [[The Role of Attention in Learning]]
 
 ### 📝 Memory & Learning
-- [[202509031002 Long-term Memory Formation]]
+- [[Long-term Memory Formation]]
 
 ### 🎓 Educational Psychology
-- [[202509031003 Cognitive Load Theory]]
+- [[Cognitive Load Theory]]
 
 ---
 
