@@ -15,6 +15,7 @@ This index serves as a **map of content (MOC)** for topics related to cognition,
 - [[The Role of Attention in Learning]]
 - [[Long-term Memory Formation]]
 - [[Cognitive Load Theory]]
+- [[Quartz Guide]]
 
 ---
 
